@@ -1,0 +1,65 @@
+1. ¿Empareja correctamente los siguiente item correspondiente a css? {
+    =Propiedad CSS "justify-content" -> Alinea elementos horizontalmente
+    /Valor "flex-end" de "align-items" -> Alinea elementos en la parte superior
+   =Propiedad "color" -> Cambia el color del texto
+    /Propiedad "font-family" -> Representa un porcentaje del ancho del contenedor
+}
+
+2. ¿Asocia cada valor con la propiedad CSS que controla el posicionamiento? {
+    =absolute -> position
+    /relative -> margin
+    =fixed -> position
+    /auto -> padding
+}
+
+3. Seleccione la respuesta correcta ¿Qué propiedad nos permite alinear un elemento de contenido de forma horizontal? {
+    =justify-content
+    ~align-items
+    ~flex-end
+    ~flex-start
+}
+
+4. Seleccione ka opción correcta ¿Cuál valor de la propiedad align-items nos permite alinear un elemento hacia la parte inferior del contenido? {
+    =flex-end
+    ~flexbox
+    ~flex-start
+    ~space-between
+}
+
+5. Seleccione las opciones correctas ¿ Qué valores nos permite alinear al centro un elemento de un contenido usando las propiendades justify-content y align-items {
+    ~%50%center
+    ~%50%center
+    ~%-100%space-between
+    ~%-100%space-around
+}
+
+6. ¿Qué propiedad CSS se utiliza para cambiar de color de texto {
+    =color
+    ~font-family
+    ~background-color
+    ~text-align
+}
+
+7. ¿Cuál de las siguientes unidades de medida en CSS 
+representa un porcentaje del ancho del elemento contenedor? {
+    = porcentaje %
+    ~em
+    ~rem
+    ~px
+}
+
+8. ¿Qué propiedad se utiliza para establecer
+el espacio entre los elementos de una lista no ordenada (<ul>) en CSS? {
+    =list-style
+    ~list-style-type
+    ~list-style-image
+    ~list-style-position
+}
+
+9. ¿Cuáles de las siguientes propiedades CSS afectan el espaciado entre letras en un texto?{
+    ~letter-spacing 
+    ~line-height 
+    =word-spacing 
+    ~font-size
+    }
+
